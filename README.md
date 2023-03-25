@@ -1,2 +1,3 @@
-# backdash
-BackDash: A Dashboard for your background
+# BackDash: A Dashboard for your Background
+
+A work in progress...
